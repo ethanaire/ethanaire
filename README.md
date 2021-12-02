@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, I'm Ethan Nguyen! :v: 
 
-<!--
-**ethanaire/ethanaire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a second-year IT undergraduate at Macquarie University majoring in Information System and Business Analysis. I'm based in Sydney, Australia.
 
-Here are some ideas to get you started:
+Studying abroad gives me the chance to immerse myself in many different works and projects, helping to improve my coding skill as well as analytical thinking. I'm always trying to grow and learn something new besides my leisure time for games. :heart_eyes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm focusing on :computer:
+
+Currently improving my analytical skills: Python, R, SQL and trying to get a internship during my summer break. 
+
+### Find me elsewhere :earth_asia:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/ethan-nguyen-187678218/)
