@@ -1,6 +1,6 @@
 ### Hey, I'm Ethan Nguyen! :v: 
 
-My full-time job is still a second-year IT undergraduate at Macquarie University majoring in Information System and Business Analysis. I'm based in Sydney, Australia.
+My full-time job is still a third-year IT undergraduate at Macquarie University majoring in Information System and Business Analysis. I'm based in Sydney, Australia.
 
 Studying abroad gives me the chance to immerse myself in many different works and projects, helping to improve my coding skill as well as analytical thinking. I'm always trying to grow and learn something new besides my leisure time for games. :heart_eyes:
 
