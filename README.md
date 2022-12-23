@@ -10,4 +10,4 @@ Currently improving my analytical skills: Python, R, SQL and trying to get a int
 
 ### Find me elsewhere :earth_asia:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/ethan-nguyen-187678218/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/ethannguyen-au/)
