@@ -1,4 +1,4 @@
-### Hey, I'm Ethan Nguyen! :v: 
+### Hey, I'm Hoang Nguyen! :v: 
 
 My full-time job is still a third-year IT undergraduate at Macquarie University majoring in Information System and Business Analysis. I'm based in Sydney, Australia.
 
