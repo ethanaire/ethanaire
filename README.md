@@ -1,6 +1,6 @@
 ### Hey, I'm Hoang (Ethan) Nguyen! :v: 
 
-I'm currently a Macquarie University graduate majoring in Information System and Business Analysis. I have worked as a Service Analyst at Viettel Networks since October 2023.
+I'm a Macquarie University graduate majoring in Information System and Business Analysis. I have worked as a Service Analyst at Viettel Networks since October 2023.
 
 Studying abroad gives me the chance to immerse myself in many different works and projects, helping to improve my coding skill as well as analytical thinking. I'm always trying to grow and learn something new besides my leisure time for games. :heart_eyes:
 
