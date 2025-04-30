@@ -1,13 +1,4 @@
-### Hey, I'm Hoang (Ethan) Nguyen! :v: 
-
-I'm a Macquarie University graduate majoring in Information System and Business Analysis. 
-
-My current job as an Operations Analyst at Viettel Networks have started since October 2023.
-
-### What I'm focusing on :computer:
-
-Currently improving my analytical skills with Python, R, SQL as well as the Data Engineering and Business Intelligence fields. 
-
-### Find me elsewhere :earth_asia:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/ethannguyen-au/)
+### Hi there, my name is Hoang (Ethan) Nguyen :v: :v: Emerging myself in the data field since 2020 :heart: :fire:
+- 🌱 Hoang is focusing on analytical topics, mainly in Python and SQL along with Data Engineering and Business Intelligence technologies. 
+- 🔭 I worked as an Operations Analyst at Viettel Networks - a branch of Viettel Group. I was also an IT graduate at Macquarie University, majoring in Information Systems and Business Analysis.
+- 📫 Let's connect on Linkedin <a href="https://www.linkedin.com/in/ethannguyen-au/">@hoangngn</a>.
